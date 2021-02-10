@@ -1,0 +1,17 @@
+
+
+int a;
+
+int bambam(int x, int b){
+	if(b){if(x)return;
+	}
+}
+
+int pebbles(int x, int y){
+	bool v;
+	int w;
+	v = x == y;
+	w = 3;
+	w = bambam(x+w, x >= y);
+	return w;
+}

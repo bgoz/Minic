@@ -1,0 +1,23 @@
+int a;
+
+int bambam(int x, int b){
+	if(b)
+	{
+	if(x)return;
+	break;
+	}
+	return x;
+}
+
+int main (void){
+	while ( 2 == 2){
+
+		a=23;
+		break;
+
+	}
+
+	return; 
+
+
+}

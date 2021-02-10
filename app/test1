@@ -1,0 +1,19 @@
+
+int o;
+int bam(void){
+	return 1;
+}
+int main(void){
+	int a[];
+	a = new int[10];
+	a[2] = 12;
+	a[4] = 10;
+	a[5] = 1;
+	o = 87;
+	while(2==o){
+		break;
+
+	}
+	return 1;
+}
+
